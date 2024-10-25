@@ -1,0 +1,25 @@
+ <!-- Sección de servicios -->
+    <section id="servicios" class="services">
+        <h2>Nuestros Servicios</h2>
+        <div class="service-container">
+            
+            <div class="service">
+                <img src="servicio1.jpg" alt="Diseño Arquitectónico">
+                <h3>Diseño Arquitectónico</h3>
+                <p>Transformamos tus ideas en planos precisos y modernos.</p>
+            </div>
+
+            <div class="service">
+                <img src="servicio2.jpg" alt="Construcción Residencial">
+                <h3>Construcción Residencial</h3>
+                <p>Construimos casas y apartamentos con los más altos estándares.</p>
+            </div>
+
+            <div class="service">
+                <img src="servicio3.jpg" alt="Remodelaciones">
+                <h3>Remodelaciones</h3>
+                <p>Renovamos espacios para darles una nueva vida.</p>
+            </div>
+
+        </div>
+    </section>

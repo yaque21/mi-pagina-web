@@ -1,0 +1,8 @@
+    <!-- Sección de nosotros -->
+    <section id="nosotros" class="about">
+        <div class="content">
+            <h2>Sobre Nosotros</h2>
+            <p>Con más de 20 años en la industria de la construcción, nos dedicamos a ofrecer soluciones arquitectónicas innovadoras y sostenibles. Nuestro equipo de expertos trabaja para superar las expectativas de cada cliente.</p>
+        </div>
+        <img src="nosotros.jpg" alt="Sobre Nosotros">
+    </section>

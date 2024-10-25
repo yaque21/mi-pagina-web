@@ -1,0 +1,32 @@
+/* Sección de nosotros */
+.about {
+    display: flex;
+    align-items: center;
+    padding: 5rem 2rem;
+    gap: 2rem;
+}
+
+.about img {
+    width: 50%;
+    border-radius: 8px;
+}
+
+.about .content {
+    width: 50%;
+}
+
+
+
+/* Responsividad */
+@media (max-width: 768px) {
+    header nav ul {
+        flex-direction: column;
+        background: rgba(51, 51, 51, 0.9);
+        padding: 1rem;
+    }
+
+    .dropdown-menu {
+        position: static;
+        width: 100%;
+    }
+}

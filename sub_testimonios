@@ -1,0 +1,16 @@
+    <!-- Sección de testimonios -->
+    <section id="testimonios" class="testimonials">
+        <h2>Testimonios</h2>
+        <div class="testimonial-container">
+            <div class="testimonial">
+                <p>"La atención al detalle y la profesionalidad del equipo son excepcionales. Nos ayudaron a hacer realidad nuestro proyecto."</p>
+                <h4>Juan Pérez</h4>
+                <span>Cliente Satisfecho</span>
+            </div>
+            <div class="testimonial">
+                <p>"Recomiendo altamente a Constructora XYZ. Construyeron nuestro hogar con excelencia y atención a los detalles."</p>
+                <h4>María López</h4>
+                <span>Cliente Satisfecho</span>
+            </div>
+        </div>
+    </section>

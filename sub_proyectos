@@ -1,0 +1,18 @@
+    <!-- Sección de proyectos -->
+    <section id="proyectos" class="projects">
+        <h2>Proyectos Recientes</h2>
+        <div class="project-container">
+            <div class="project">
+                <img src="proyecto1.jpg" alt="Edificio Moderno">
+                <h4>Edificio Moderno</h4>
+            </div>
+            <div class="project">
+                <img src="proyecto2.jpg" alt="Casa Residencial">
+                <h4>Casa Residencial</h4>
+            </div>
+            <div class="project">
+                <img src="proyecto3.jpg" alt="Centro Comercial">
+                <h4>Centro Comercial</h4>
+            </div>
+        </div>
+    </section>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constructora Rosales</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Barra de navegación fija -->
+    <header>
+        <div class="logo">Constructora Rosales</div>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li class="dropdown">
+
+                     <li> <a href="sub_equipo">Nuestro Equipo</a></li>
+
+                    <ul class="dropdown-menu">
+                        <li><a href="#equipo">Nuestro Equipo</a></li>
+
+                        <li><a href="#historia">Historia</a></li>
+
+                        <li><a href="#valores">Valores</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+
+                    <a href="sub_servicios">Servicios</a></li>
+
+                <li><a href="sub_proyectos">Proyectos</a></li>
+
+                <li><a href="sub_testimonios">Testimonios</a></li>
+
+                <li><a href="#contacto">Contacto</a></li>
+                
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Sección de portada -->
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>Construimos tus sueños</h1>
+            <p>Transformamos ideas en realidad con innovación y calidad</p>
+        </div>
+    </section>
+</body>
+</html>
